@@ -375,7 +375,7 @@ const Hero = () => {
                 </div>
                 <div>
                   <h3 className="font-bold text-blue-600">Phone</h3>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+91 7982953240</p>
                 </div>
               </motion.div>
               <motion.div
@@ -389,7 +389,7 @@ const Hero = () => {
                 </div>
                 <div>
                   <h3 className="font-bold text-blue-600">Email</h3>
-                  <p className="text-gray-600">support@hms.com</p>
+                  <p className="text-gray-600">shourya.vohra@gmail.com</p>
                 </div>
               </motion.div>
               <motion.div
