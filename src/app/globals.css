@@ -31,7 +31,7 @@ body {
 }
 
 .gradient-border > * {
-  @apply bg-background rounded-xl;
+  @apply  rounded-xl;
 }
 
 /* Card styling */
