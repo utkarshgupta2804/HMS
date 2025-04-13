@@ -21,15 +21,7 @@ Welcome to the **Hospital Management System**, a full-stack web application buil
 
 ---
 
-## 🛠️ Technologies Used
 
-- **Frontend**: Next.js, React, Material-UI  
-- **Backend**: Node.js, Express.js, MongoDB  
-- **Authentication**: JWT (JSON Web Tokens)  
-- **Database**: MongoDB Atlas  
-- **Deployment**: Vercel (frontend), Heroku (backend)  
-
----
 
 ## 🧑‍💻 Getting Started
 
