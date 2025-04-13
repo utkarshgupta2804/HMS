@@ -33,9 +33,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/utkarshgupta2804/HMS.git
 cd HMS
 
-```bash
 npm install
 
-```bash
 npm run dev
 
