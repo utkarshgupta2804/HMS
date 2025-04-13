@@ -38,5 +38,12 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd hospital-management-system
+git clone https://github.com/utkarshgupta2804/HMS.git
+cd HMS
+
+```bash
+npm install
+
+```bash
+npm run dev
+
